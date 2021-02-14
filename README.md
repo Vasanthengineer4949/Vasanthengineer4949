@@ -26,7 +26,7 @@ Hi, I'm Vasanth, a Data Scientist 🚀 from India. Currently, I'm  learning ML, 
 - 🤔 I’m somewhat fine with Machine Learning;
 - 💬 Ask me about anything, I am happy to help to my knowledge;
 - 📫 How to reach me: vasanth51430@gmail.com;
-- 📝[Resume]()
+- 📝[Resume](https://github.com/Vasanthengineer4949/Vasanthengineer4949/blob/main/MyResumeUpdated.pdf)
 
 **Languages and Tools:**  
 
