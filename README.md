@@ -20,8 +20,8 @@ Hi, I'm Vasanth, a Data Scientist 🚀 from India. Currently, I'm  learning ML, 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Smart Attendance System](https://github.com/Vasanthengineer4949/Smart-Attendance-System);
-- 🌱 I’m currently learning Computer Vision algorithms
+- 👨🏽‍💻 I’m currently working on OPTIMUS;
+- 🌱 I’m currently learning NLP
 - 👯 I’m happy to colloborate with Data Science community🤝
 - 🤔 I’m somewhat fine with Machine Learning
 - 💬 Ask me about anything, I am happy to help to my knowledge
